@@ -76,3 +76,7 @@ making the experience feel personalized and reactive.
 ## Author
 
 Experimental Interface & Interaction Concept by Tejal Wagh.
+
+## 📸 Preview
+
+![Project Preview](assets/preview2.png)
