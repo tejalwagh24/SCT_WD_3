@@ -1,3 +1,7 @@
+## Live Demo
+
+https://the-god-machine.netlify.app
+
 # THE GOD MACHINE — Cognitive Evaluation Protocol
 
 ## Overview
