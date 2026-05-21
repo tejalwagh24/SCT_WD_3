@@ -1,3 +1,4 @@
+# README UPDATE TEST ✔ WORKING
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ffcc&height=220&section=header&text=THE%20GOD%20MACHINE&fontSize=45&fontColor=ffffff&animation=fadeIn" />
