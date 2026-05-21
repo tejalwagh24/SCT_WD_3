@@ -1,82 +1,109 @@
-## Live Demo
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ffcc&height=220&section=header&text=THE%20GOD%20MACHINE&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-https://the-god-machine.netlify.app
+<h1 align="center">⚡ THE GOD MACHINE</h1>
 
-# THE GOD MACHINE — Cognitive Evaluation Protocol
-
-## Overview
-
-THE GOD MACHINE is an experimental quiz-based web experience designed as an adaptive intelligence evaluation system.
-
-Unlike traditional quiz applications, the project combines immersive interaction design, cinematic UI, behavioral analysis, and dynamic environmental reactions to create the feeling of communicating with an evolving machine consciousness.
-
-The experience blends:
-- quiz mechanics
-- speculative interface design
-- atmospheric frontend engineering
-- interactive storytelling
-
-into a single immersive system.
+<p align="center">
+  <b>Interactive Cognitive Evaluation System | Experimental UI | Neural Quiz Engine</b>
+</p>
 
 ---
 
-## Features
-
-- Interactive Quiz Engine
-- Multiple Choice Question System
-- Real-Time Timer
-- Dynamic Scoring
-- Adaptive Behavioral Analysis
-- Neural Particle Background
-- Atmospheric UI Reactions
-- Cognitive Evaluation Feedback
-- Memory Log System
-- Responsive Design
-- Canvas API Animation
-- Cinematic Interface Experience
+## 🌐 Live Demo
+👉 https://the-god-machine.netlify.app
 
 ---
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Canvas API
-
----
-
-## Experience Design
-
-The project transforms a standard quiz application into an immersive computational evaluation experience.
-
-The machine:
-- reacts to user performance
-- tracks hesitation and response speed
-- changes environmental states dynamically
-- generates cognitive analysis reports
-- simulates adaptive machine intelligence
-
-creating a unique interaction system beyond conventional quiz interfaces.
-
----
-
-## Cognitive Analysis System
-
-At the end of the evaluation, the system generates:
-- score analysis
-- behavioral observations
-- cognitive response patterns
-- interaction-based feedback
-
-making the experience feel personalized and reactive.
-
----
-
-## Author
-
-Experimental Interface & Interaction Concept by Tejal Wagh.
 
 ## 📸 Preview
 
-![Project Preview](assets/preview2.png)
+<p align="center">
+  <img src="assets/preview2.png" width="850"/>
+</p>
+
+---
+
+## 🧠 About
+
+A next-gen **interactive cognitive quiz system** that simulates adaptive machine intelligence through:
+
+- Behavioral tracking
+- Dynamic UI evolution
+- Response-based scoring
+- Real-time cognitive analysis
+- Immersive particle-based interface
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+</p>
+
+---
+
+## 🚀 Features
+
+- Adaptive Quiz Engine  
+- Real-time Timer System  
+- Score + Cognitive Analysis  
+- Neural Particle Background (Canvas API)  
+- Behavioral Tracking (speed, hesitation)  
+- Dynamic UI State Changes  
+- Machine Memory System  
+- Fully Responsive Design  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejalwagh24&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejalwagh24&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Learning Outcomes
+
+- Advanced DOM manipulation  
+- Canvas API animations  
+- State-based UI systems  
+- Event-driven architecture  
+- UX storytelling design  
+- Adaptive interaction systems  
+
+---
+
+## 🚀 Future Upgrades
+
+- AI-generated dynamic questions  
+- Voice interaction mode  
+- Multiplayer cognitive battle mode  
+- Backend intelligence tracking system  
+
+---
+
+## 👨‍💻 Author
+
+**Tejal Wagh**  
+Frontend Developer |  
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ and share feedback!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0f0f0f&height=120&section=footer"/>
+</p>
